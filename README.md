@@ -3,5 +3,5 @@ this is FirstRepo
 
 this is second repo
 
-this is third repo
+this is 3rd repo
 
